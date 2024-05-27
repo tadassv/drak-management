@@ -22,3 +22,12 @@ The "Drak Management" tool is free and open source software, available for every
 You may want to apply Drakvuf Sandbox fixes if you are having troubles with `draksetup postinstall` command when setting up Guest VM.
 
 ---
+
+#### Experiments & results
+
+1000 sample analysis
+
+- [Windows all syscalls DB file](https://drive.google.com/file/d/1cT96dnUa5ya4GurDif3xy9G5_bcF2BSd/view?usp=drive_link)
+- [Windows aggregated syscalls DB file](https://drive.google.com/file/d/12wlhehF7_myEwK35lC7hZVVftVFzSnud/view?usp=drive_link)
+- [Windows analysis session DB file](https://drive.google.com/file/d/1EVDvJ4G7zMndPfxsIrxxyQp6jfSY0Y5E/view?usp=drive_link)
+- [Console logs](https://drive.google.com/file/d/1GXgoAFZBrSYIMP_mPSn6uuASqP_wVpb5/view?usp=drive_link)
