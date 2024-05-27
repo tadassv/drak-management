@@ -1,0 +1,4 @@
+karton-core==4.3.0
+minio==5.0.7
+requests==2.31.0
+loguru==0.7.2

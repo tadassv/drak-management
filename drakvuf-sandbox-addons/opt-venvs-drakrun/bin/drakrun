@@ -1,0 +1,5 @@
+#!/opt/venvs/drakrun/bin/python
+
+import drakrun.main as dm
+
+dm.main()
